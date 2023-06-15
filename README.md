@@ -6,6 +6,6 @@
 Here are some ideas to get you started: -->
 
 - 🌱 I’m currently learning php, sql, javascript... 
-- 📫 How to reach me on discord: Ayuh#1936
+- 📫 How to reach me on discord: Rumi#1936
 
 
